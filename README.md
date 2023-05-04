@@ -1,4 +1,4 @@
-# How to Schedule and Track Tasks in the Vue Gantt Chart Component
+# How to Customize Column Data and Toolbars in Vue Gantt Chart
 
 A quick-start project that helps you to customize the column headers and data in the Vue Gantt Chart component using templates. This project contains code snippets to add the custom toolbar buttons Quick Filter and Clear Filter.
 
